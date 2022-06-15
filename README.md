@@ -3,7 +3,7 @@
 # Portfolio - Jorum Odiemo
 
 > Creating a skeleton mobile desktop version website of my portfolio
-> 
+> Publish the portfolio in the www for everybody to view
 
 
 ## Built With
@@ -13,6 +13,7 @@
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
+https://jodiemo.github.io/odiemo..github.io/
 
 
 
